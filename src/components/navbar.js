@@ -5,7 +5,7 @@ const navbar = () => {
             <div className="max-w-7x1 mx-auto">
                 <div className="flex justify-between items-center py-3">
                     <div className="flex flex-1 justify-start">
-                       
+                    <img src={logo} alt="coinbase logo"/>
                     </div>
                 </div>
             </div>
